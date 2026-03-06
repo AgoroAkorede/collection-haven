@@ -1,0 +1,5 @@
+{
+  "name": "Card Collectr",
+  "description": "A trading card collection manager and portfolio tracker.",
+  "requestFramePermissions": ["camera"]
+}
